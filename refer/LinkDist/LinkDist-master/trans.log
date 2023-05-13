@@ -1,0 +1,42 @@
+Downloading /home/kumaizep/.dgl/cora_v2.zip from https://data.dgl.ai/dataset/cora_v2.zip...
+Extracting file to /home/kumaizep/.dgl/cora_v2
+Finished data loading and preprocessing.
+  NumNodes: 2708
+  NumEdges: 10556
+  NumFeats: 1433
+  NumClasses: 7
+  NumTrainingSamples: 140
+  NumValidationSamples: 500
+  NumTestSamples: 1000
+Done saving data into cached files.
+BiDirection: True
+nodes: 2708
+features: 1433
+classes: 7
+edges: 5278
+degree: 3.90
+params: 436743
+best: tensor([1.0000, 0.6100, 0.5790])
+best: (tensor(135), tensor(0.5760))
+best: tensor([1.0000, 0.5860, 0.5690])
+best: (tensor(78), tensor(0.5580))
+best: tensor([1.0000, 0.6000, 0.5710])
+best: (tensor(52), tensor(0.5670))
+best: tensor([1.0000, 0.5780, 0.5630])
+best: (tensor(175), tensor(0.5630))
+best: tensor([1.0000, 0.5740, 0.5620])
+best: (tensor(114), tensor(0.5520))
+best: tensor([1.0000, 0.5860, 0.5630])
+best: (tensor(92), tensor(0.5490))
+best: tensor([1.0000, 0.5860, 0.5720])
+best: (tensor(178), tensor(0.5680))
+best: tensor([1.0000, 0.5840, 0.5680])
+best: (tensor(58), tensor(0.5630))
+best: tensor([1.0000, 0.5880, 0.5780])
+best: (tensor(143), tensor(0.5700))
+best: tensor([1.0000, 0.5860, 0.5830])
+best: (tensor(87), tensor(0.5830))
+data: cora, method: mlp-trans, split: 0
+time:2.247±0.864
+conv:112.200±45.350
+acc:56.49±1.04

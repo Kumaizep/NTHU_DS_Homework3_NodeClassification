@@ -1,0 +1,25 @@
+  NumNodes: 2708
+  NumEdges: 10556
+  NumFeats: 1433
+  NumClasses: 7
+  NumTrainingSamples: 140
+  NumValidationSamples: 500
+  NumTestSamples: 1000
+Done loading data from cached files.
+BiDirection: True
+nodes: 2708
+features: 1433
+classes: 7
+edges: 5278
+degree: 3.90
+params: 436743
+best: tensor([1.0000, 0.6100, 0.5790])
+best: (tensor(135), tensor(0.5760))
+best: tensor([1.0000, 0.5860, 0.5690])
+best: (tensor(78), tensor(0.5580))
+best: tensor([1.0000, 0.6000, 0.5710])
+best: (tensor(52), tensor(0.5670))
+best: tensor([1.0000, 0.5780, 0.5630])
+best: (tensor(175), tensor(0.5630))
+best: tensor([1.0000, 0.5740, 0.5620])
+best: (tensor(114), tensor(0.5520))
